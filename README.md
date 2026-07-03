@@ -298,7 +298,7 @@
         <h1 class="wishes-title">పుట్టినరోజు శుభాకాంక్షలు! 🎉</h1>
         <div class="glass-card" style="border-color: #ff75a3;">
             <p style="font-weight: bold; font-size: 1.9rem; color: #fffbdf; margin-bottom: 15px; line-height: 1.6;">
-                నా ప్రియమైన వదినగారికి హృదయపూర్వక పుట్టినరోజు శుభాకాంక్షలు! 💐
+                సుమీకి హృదయపూర్వక పుట్టినరోజు శుభాకాంక్షలు! 💐
             </p>
             <p style="font-size: 1.5rem; color: #ffffff; opacity: 0.95; line-height: 1.6;">
                 మీరు ఎల్లప్పుడూ ఆయురారోగ్యాలతో, సుఖసంతోషాలతో ఉండాలని ఆ దేవుడిని కోరుకుంటున్నాను. ఈ సంవత్సరం మీకు మరిన్ని విజయాలను అందించాలని ఆశిస్తున్నాను! 🌟✨
